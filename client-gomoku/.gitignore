@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/client-gomoku
+client-gomoku.so
+client-gomoku.dylib
+client-gomoku.dll
+client-gomoku.a
+client-gomoku.lib
+client-gomoku-test-*
+*.exe
+*.o
+*.obj
+*.lst

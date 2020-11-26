@@ -1,0 +1,12 @@
+{
+	"authors": [
+		"ksuun"
+	],
+	"dependencies": {
+		"vibe-d": "~>0.8.5"
+	},
+	"copyright": "Copyright © 2020, ksuun",
+	"description": "server app",
+	"license": "proprietary",
+	"name": "server-gomoku"
+}
